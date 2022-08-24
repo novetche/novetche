@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @novetche
-- 👀 I’m exploring new things | ex Fintech operator, UN special projects, Blockchain consulting & VC
+- 👀 Learning CS & Product Development | ex Fintech operator, UN tech special projects & VC
 - 🌱 I’m currently learning Algorithms, JavaScript, Python and SQL to better understand tech product development
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me : https://twitter.com/matetche_
