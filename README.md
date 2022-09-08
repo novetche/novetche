@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @novetche
-- 👀 Learning CS & Product Development | ex Fintech operator, UN tech special projects & VC
-- 🌱 I’m currently learning Algorithms, JavaScript, Python and SQL to better understand tech product development
+- 👀 Junior Product Manager learning Computer Science on HarvardX | ex UN Tech Special Projects, Fintech Ops & VC
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me : https://twitter.com/matetche_
