@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @novetche
-- 👀 Junior Product Manager learning Computer Science on HarvardX | ex UN Tech Special Projects, Fintech Ops & VC
+- 👀 Associate Product Manager @thiga | learning Computer Science on HarvardX CS50T/CS50x/CS50P | ex Fintech CoS/PM/Ops/VC & UN If, like my mother, you don't understand any of these cryptic tech abbreviations, let's talk!
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me : https://twitter.com/matetche_
