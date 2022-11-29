@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @novetche
-- 👀 Associate Product Manager @thiga | learning Computer Science on HarvardX CS50T/CS50x/CS50P | ex Fintech CoS/PM/Ops/VC & UN If, like my mother, you don't understand any of these cryptic tech abbreviations, let's talk!
+- 👀 Associate Product Manager @thiga | emlyon, Noe & CS50 alumni | “Do the right product and do it right”
 - 💞️ I’m looking to learn on GitHub.
 - 📫 How to reach me : https://twitter.com/matetche_
