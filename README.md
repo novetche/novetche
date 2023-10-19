@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @novetche
-- 👀 Associate Product Manager @thiga | emlyon, Noe & CS50 alumni | “Do the right product and do it right”
+- 👀 Product Manager @ Kolecto | emlyon, Noe & CS50 alumni | “Do the right product and do it right”
 - 💞️ I’m looking to learn on GitHub.
-- 📫 How to reach me : https://twitter.com/matetche_
